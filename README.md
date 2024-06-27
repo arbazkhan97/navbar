@@ -1,1 +1,1 @@
-# this is a responsive navbar
+# This is a responsive navbar
